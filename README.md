@@ -27,3 +27,20 @@ This page provides comprehensive information about a specific property. It inclu
 
 **Simple Checkout View**
 This page allows users to finalize their booking. It includes a summary of the selected property, total cost, and a form for entering payment and personal information. Users can review their booking details before confirming the reservation.
+
+## UI/UX Design Planning.
+**Colors**: Light green, gray, orange, black, white.
+
+font-family: Quicksand;
+font-weight: 500;
+font-size: 17px;
+line-height: 100%;
+letter-spacing: 0%;
+
+font-family: Source Sans Pro;
+font-weight: 600;
+font-size: 94px;
+line-height: 99px;
+letter-spacing: 0%;
+text-align: center;
+
