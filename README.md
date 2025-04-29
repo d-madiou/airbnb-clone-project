@@ -44,3 +44,12 @@ line-height: 99px;
 letter-spacing: 0%;
 text-align: center;
 
+## Project Roles and Responsibilities
+**Project Manager:** Guides the team and ensures project goals are met on time and within budget.
+**Frontend Developers:** Build the user interface and interactive elements of the application.
+**Backend Developers:** Build and maintain the server-side logic, databases, and APIs.
+**Designers:** Create the visual design and user experience of the application.
+**QA/Testers:** Ensure the quality of the application through testing and bug reporting.
+**DevOps Engineers:** Automate and streamline the software development and deployment processes.
+**Product Owner:** Defines the product vision and manages the product backlog.
+**Scrum Master:** Facilitates the Scrum process and removes impediments for the team.
