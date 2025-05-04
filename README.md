@@ -146,8 +146,10 @@ Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
 UI Component Patterns
 Planned Components
 
-## Team Role Documentation:
+## Team Role Documentation :
 Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
+
+## Feature Breakdown
 
 1. Technology Stack Breakdown:
 Explore the technologies used in a scalable project and their specific contributions to achieving project goals.
