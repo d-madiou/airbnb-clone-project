@@ -133,6 +133,19 @@ To successfully complete the project tasks, learners must:
 * Hands-on GitHub Repository Management:
 * Learn to initialize and structure a project repository, adhering to industry best practices.
 
+## Team Roles
+Role	Responsibilities
+Project Manager	Oversees timeline, coordinates team, manages deliverables
+Frontend Developers	Implements UI components, ensures responsive design
+Backend Developers	Builds APIs, manages database, implements business logic
+Designers	Creates mockups, maintains design system, ensures UX quality
+QA/Testers	Writes test cases, performs testing, reports bugs
+DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner	Defines requirements, prioritizes features, represents stakeholders
+Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+UI Component Patterns
+Planned Components
+
 ## Team Role Documentation:
 Understand and articulate the responsibilities of various team members, fostering collaboration in real-world scenarios.
 
